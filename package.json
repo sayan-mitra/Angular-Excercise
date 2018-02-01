@@ -1,0 +1,24 @@
+{
+  "name": "angular-exercise",
+  "version": "1.0.0",
+  "description": "Project for completing excercises",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayan000/Angular-Excercise.git"
+  },
+  "author": "Sayan Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayan000/Angular-Excercise/issues"
+  },
+  "homepage": "https://github.com/sayan000/Angular-Excercise#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
